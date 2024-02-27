@@ -44,7 +44,7 @@ nav a:hover{
     height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(https://media.istockphoto.com/id/1208738316/photo/abstract-geometric-network-polygon-globe-graphic-background.webp?b=1&s=170667a&w=0&k=20&c=Ewa2JDeA8E9k9ch3IYWkSYdEkTEhyaMNfNLkClag-j4=);
+    background-image: url('https://media.istockphoto.com/id/1208738316/photo/abstract-geometric-network-polygon-globe-graphic-background.webp?b=1&s=170667a&w=0&k=20&c=Ewa2JDeA8E9k9ch3IYWkSYdEkTEhyaMNfNLkClag-j4=');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
